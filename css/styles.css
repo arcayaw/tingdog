@@ -4,6 +4,10 @@
     font-family: 'Ubuntu', sans-serif;
 */
 
+/*#########################################
+                Globals				
+#########################################*/
+
 
 body {
     font-family: "ubuntu";
@@ -39,7 +43,7 @@ h1 {
 }
 
 h2{
-    font-family: 'Montserrat-bold', sans-serif;
+    font-family: 'Montserrat-Black', sans-serif;
     font-weight: bold;
     font-size: 3rem;
     line-height: 1.5;
@@ -56,7 +60,7 @@ p{
 }
 
 /*#########################################
-                    Nav Bar
+                Nav Bar
 #########################################*/
 
 .navbar {
